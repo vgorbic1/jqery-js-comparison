@@ -4,4 +4,4 @@
 
 | jQuery | JavaScript |
 |---|---|
-| ```$('.aclass')``` | ```document.querySelector('.aclass')``` |
+| ```$('.aclass')``` | ```document.querySelector('.aclass') document.querySelectorAll('.aclass li')``` |
